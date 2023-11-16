@@ -1,2 +1,2 @@
-# O-Rel-gio
+# O-Relógio
 Um relógio em Javascript
